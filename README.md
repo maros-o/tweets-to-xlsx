@@ -7,15 +7,7 @@ Generates xlsx file with tweets according to your search settings
 Of course you must have installed python and pip, then
 
 ```bash
-pip install snscrape
-```
-
-```bash
-pip install tk
-```
-
-```bash
-pip install xlsxwriter
+pip install snscrape tk xlsxwriter
 ```
 
 ## Start App
